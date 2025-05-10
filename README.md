@@ -44,10 +44,10 @@ This project blends:
 
 ## Project Structure
 summarization-nlp/
-├── notebooks/             # Main notebooks for experimentation
-├── data/                  # Training data, summaries, insights
-├── evaluation/            # ROUGE scores and comparison files
-└── README.md              # This file
+notebooks/             # Main notebooks for experimentation
+data/                  # Training data, summaries, insights
+evaluation/            # ROUGE scores and comparison files
+README.md              # This file
 
 ## Why it matters
 For recruiters and data science leads, this project shows:
