@@ -43,11 +43,11 @@ This project blends:
 * Summaries consistently retained context, clarity, and tone
 
 ## Project Structure
-📁 summarization-nlp/
+summarization-nlp/
 ├── notebooks/             # Main notebooks for experimentation
 ├── data/                  # Training data, summaries, insights
 ├── evaluation/            # ROUGE scores and comparison files
-└── README.md              # This file!
+└── README.md              # This file
 
 ## Why it matters
 For recruiters and data science leads, this project shows:
