@@ -1,3 +1,5 @@
+![Project Banner](summarization.png)
+
 # Smart Summarizer: Turning Long Articles into Clear Insights (with BERT & T5)
 
 ## Hello and welcome!
