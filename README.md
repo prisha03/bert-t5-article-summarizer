@@ -70,7 +70,7 @@ Thanks for taking the time to explore this project! If you’d like to discuss N
 
 Prisha Chawla
 
-prishachawla10@gmail.com
+Gmail: prishachawla10@gmail.com
 
-https://www.linkedin.com/in/prisha-chawla
+Linkedln: https://www.linkedin.com/in/prisha-chawla
 
